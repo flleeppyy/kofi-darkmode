@@ -1,1 +1,70 @@
-﻿.dz-max-files-reached{pointer-events:initial!important;cursor:default}#heroThumbnail{max-height:300px}#heroUploadingIndicator{display:none}#addMoreButton{float:left;width:120px;height:120px;border:1px dashed #dadada;transition:.2s;border-radius:8px;cursor:pointer}#addMoreButton:hover{background-color:#f0f0f0}#addMoreButton h4{line-height:120px;margin:0;text-align:center;font-weight:700}#multipleImageHero{transition:.2s;border-radius:8px;cursor:pointer;background-repeat:no-repeat!important;background-position:center center!important;background-size:contain!important;-webkit-background-size:contain!important;-moz-background-size:contain!important;-o-background-size:contain!important}#multipleImageHero:hover{background-color:#f0f0f0}#addHeroImageButton,#heroUploadingIndicator{margin-top:75px;text-align:center;font-weight:700}.dropzone-area{display:none}.dropzone-area .dz-preview .dz-image img{width:120px;height:120px;object-fit:cover}img[data-dz-size]{display:none}
+﻿.dz-max-files-reached {
+    pointer-events: initial!important;
+    cursor: default
+}
+
+#heroThumbnail {
+    max-height: 300px
+}
+
+#heroUploadingIndicator {
+    display: none
+}
+
+#addMoreButton {
+    float: left;
+    width: 120px;
+    height: 120px;
+    border: 1px dashed #dadada;
+    transition: .2s;
+    border-radius: 8px;
+    cursor: pointer
+}
+
+#addMoreButton:hover {
+    background-color: #f0f0f0
+}
+
+#addMoreButton h4 {
+    line-height: 120px;
+    margin: 0;
+    text-align: center;
+    font-weight: 700
+}
+
+#multipleImageHero {
+    transition: .2s;
+    border-radius: 8px;
+    cursor: pointer;
+    background-repeat: no-repeat!important;
+    background-position: center center!important;
+    background-size: contain!important;
+    -webkit-background-size: contain!important;
+    -moz-background-size: contain!important;
+    -o-background-size: contain!important
+}
+
+#multipleImageHero:hover {
+    background-color: #f0f0f0
+}
+
+#addHeroImageButton,
+#heroUploadingIndicator {
+    margin-top: 75px;
+    text-align: center;
+    font-weight: 700
+}
+
+.dropzone-area {
+    display: none
+}
+
+.dropzone-area .dz-preview .dz-image img {
+    width: 120px;
+    height: 120px;
+    object-fit: cover
+}
+
+img[data-dz-size] {
+    display: none
+}

@@ -5,7 +5,7 @@ Kofi Dark mode is maintained by members who are willing to contribute to the pro
 
 ##The files in the repository are marked below with their original source, and purpose:
 
-* = Needs confirmation
+`*` = Needs confirmation
 
 Filename | Original | Purpose
 ------------ | ------------- | -------------

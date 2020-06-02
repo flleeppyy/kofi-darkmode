@@ -4664,7 +4664,7 @@ input[type=select] {
     z-index: 1;
     top: 0;
     right: 0;
-    background: #fff;
+    background: #252525;
     overflow-x: hidden;
     transition: .3s;
     color: #fff;

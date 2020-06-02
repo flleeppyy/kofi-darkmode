@@ -22547,7 +22547,7 @@ a>name {}
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    background: #fff;
+    background: #252525;
     z-index: 900
 }
 
@@ -22573,7 +22573,7 @@ a>name {}
 }
 
 .kfds-btn-sidemenu:hover {
-    background-color: #e4f4fb;
+    background-color: #1f1e1e;
     color: #29abe0
 }
 

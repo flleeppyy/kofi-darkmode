@@ -3,31 +3,12 @@
 }
 
 .label-tag {
-    border-radius: 14px;
     color: #8a8fa0!important;
-    display: inline;
-    font-family: quicksand, helvetica neue, lato, Helvetica, Arial, sans-serif;
-    font-size: 12px;
-    line-height: 14px;
-    margin: 2px 2px 2px 0;
-    font-weight: 600;
-    padding: 4px 8px;
-    text-align: center;
-    text-shadow: none;
-    vertical-align: baseline;
-    white-space: nowrap;
-    display: inline-block;
     background: #9fa3b114!important
 }
 
 .newsfeed-unread-dot {
     background-color: #ff5f5f;
-    width: 8px;
-    height: 8px;
-    border-radius: 5px;
-    margin-left: -10px;
-    margin-top: -10px;
-    display: none
 }
 
 .notifications-unread-dot {

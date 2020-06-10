@@ -1135,11 +1135,11 @@ input[value^="Preview Post"] {
 }
 
 .thankyou-container {
-    background: #444;
+    background: #222;
 }
 
 #thanksModal > div > div > div.kfds-lyt-column.kfds-font-size-hint.kfds-font {
-  background-color: #555!important;
+  background-color: #2c2c2c!important;
 }
 
 .sticky-footer {
@@ -1148,5 +1148,19 @@ input[value^="Preview Post"] {
 }
 
 .kfds-c-srf-thank-bubble {
-    background: #444;
+    background: #222;
+}
+
+.update-bubble {
+  box-shadow: none;
+}
+
+#thanksModal > div > div > div:nth-child(7) > div > div > div {
+    padding: 10px;
+}
+
+[id^=directUrl] {
+  visibility: hidden;
+  width: 0px;
+  left: 50%;
 }

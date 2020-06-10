@@ -6,6 +6,7 @@ Kofi Dark mode is maintained by members who are willing to contribute to the pro
 # Notes
 - Follow suggestions in newsfeed have a weird box shadow, especially on hover. Ref: `.kfds-hz-follow-suggestion-box`
 - Colors should be organized with variables instead of figuring out what color looks nice
+- Some colers may not show properly if the ko-fi user has a customized color theme. There is no way around this unless there is a variable for the user's custom color.
 
 # How do I contribute?
 1. Fork this repository

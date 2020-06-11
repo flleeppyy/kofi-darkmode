@@ -9,6 +9,10 @@ body {
     padding-bottom: 0px!important;
 }
 
+h1 {
+    color: #dbedff;
+}
+
 h2 {
     color: #dcdcdc;
     font-weight: 400;
@@ -643,9 +647,8 @@ div.kfds-c-choose-options>label>svg {
     color: #ff5f5f;
 }
 
-.btn,
-.btn-primary {
-    background-color: #424242cf;
+.btn, .btn-primary {
+    background-color: #5f5f5fcf;
     transition: background-color .15s ease-out;
 }
 
@@ -1163,4 +1166,12 @@ input[value^="Preview Post"] {
   visibility: hidden;
   width: 0px;
   left: 50%;
+}
+
+.white-onboarding-container {
+    background-color: #444;
+}
+
+.footer-mini-copyright-text {
+    color: hsla(218, 100%, 89%, 0.6);
 }

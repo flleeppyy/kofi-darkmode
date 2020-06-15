@@ -915,6 +915,7 @@ label {
 .kfds-hz-commission-each {
     box-shadow: none;
     transition: transform .1s ease-out, opacity .2s ease-out;
+    background-color: #424242;
 }
 
 .kfds-hz-commission-each:hover {

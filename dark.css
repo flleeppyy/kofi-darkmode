@@ -1210,3 +1210,7 @@ name > a {
 .kfds-lyt-row-end {
     padding-top: 10px;
 }
+
+.modal-h2 {
+    color: #d2d2d2;
+}

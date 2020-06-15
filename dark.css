@@ -1192,4 +1192,13 @@ name > a {
     background-color: #fff;
     background-color: #292929;
 }
+
+.breadcrumb {
+    background-color: #555;
+    padding: 2px 7px;
+    width: 126px
+}
+
+#page-wrapper > div > div.wrapper.wrapper-content.animated.fadeInUp > iframe {
+  height: 950px
 }

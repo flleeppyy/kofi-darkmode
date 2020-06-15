@@ -376,6 +376,9 @@ text {
     background-color: #424242;
 }
 
+.kfds-hz-follow-suggestion-box:hover {
+    box-shadow: none;
+}
 .kfds-c-newsfeed-wrapper {
     overflow: hidden;
 }
@@ -1202,4 +1205,8 @@ name > a {
 
 #page-wrapper > div > div.wrapper.wrapper-content.animated.fadeInUp > iframe {
   height: 950px
+}
+
+.kfds-lyt-row-end {
+    padding-top: 10px;
 }

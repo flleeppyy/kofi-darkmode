@@ -15,6 +15,16 @@ Kofi Dark mode is maintained by members who are willing to contribute to the pro
 4. Describe your changes, take screenshots of before and after of what your changes have affected
 5. Done!
 
+# How do I install this theme
+Currently, we haven't exactly worked out the details with Ko-fi on integrating a public beta, so for now, do the following:
+For Google Chrome users:
+1. Use an extension like [UserCSS](https://chrome.google.com/webstore/detail/user-css/okpjlejfhacmgjkmknjhadmkdbcldfcb), [Styler](https://chrome.google.com/webstore/detail/styler/bogdgcfoocbajfkjjolkmcdcnnellpkb/), [CSS and Javascript Injection](https://chrome.google.com/webstore/detail/css-and-javascript-inject/ckddknfdmcemedlmmebildepcmneakaa), or [CSS JS injector](https://chrome.google.com/webstore/detail/css-js-injector/gamgadbdliolbhjdcfjjpjfjhgfnckbp)
+2. Insert the following code into the CSS text area
+```css
+@import url("https://cdn.jsdelivr.net/gh/flleeppyy/kofi-darkmode@master/dark.css")
+```
+3. Then hit run (If there is a button for it; Some may apply instantly)
+
 # Screenshots
 
 ## Home manage page

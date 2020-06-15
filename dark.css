@@ -1175,3 +1175,21 @@ input[value^="Preview Post"] {
 .footer-mini-copyright-text {
     color: hsla(218, 100%, 89%, 0.6);
 }
+
+.article-body {
+    color: #d0d0d0;
+}
+
+name > a {
+    color: #dbeefd;
+}
+
+.dropdown-menu {
+    background-color: #292929;
+}
+
+.navbar .dropdown-menu {
+    background-color: #fff;
+    background-color: #292929;
+}
+}

@@ -19,11 +19,12 @@ Kofi Dark mode is maintained by members who are willing to contribute to the pro
 Currently, we haven't exactly worked out the details with Ko-fi on integrating a public beta, so for now, do the following:
 For Google Chrome users:
 1. Use an extension like [UserCSS](https://chrome.google.com/webstore/detail/user-css/okpjlejfhacmgjkmknjhadmkdbcldfcb), [Styler](https://chrome.google.com/webstore/detail/styler/bogdgcfoocbajfkjjolkmcdcnnellpkb/), [CSS and Javascript Injection](https://chrome.google.com/webstore/detail/css-and-javascript-inject/ckddknfdmcemedlmmebildepcmneakaa), or [CSS JS injector](https://chrome.google.com/webstore/detail/css-js-injector/gamgadbdliolbhjdcfjjpjfjhgfnckbp)
-2. Insert the following code into the CSS text area
+2. Make sure your on [Ko-fi's website](https://ko-fi.com) otherwise you'll be applying the css to a page you didn't intend to.
+3. Insert the following code into the CSS text area
 ```css
-@import url("https://cdn.jsdelivr.net/gh/flleeppyy/kofi-darkmode@master/dark.css")
+@import url("https://flleeppyy.github.io/kofi-darkmode/dark.css")
 ```
-3. Then hit run (If there is a button for it; Some may apply instantly)
+4. Then hit run (If there is a button for it; Some extensions may apply instantly)
 
 # Screenshots
 

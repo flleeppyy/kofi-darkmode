@@ -1,7 +1,7 @@
 # kofi-darkmode
 A community contributed dark theme for Ko-fi
 
-Kofi Dark mode is maintained by members who are willing to contribute to the project
+The Ko-fi dark theme is maintained by members who are willing to contribute to the project (Mainly me)
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/flleeppyy)
 

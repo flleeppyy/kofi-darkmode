@@ -3,6 +3,8 @@ A community contributed dark theme for Ko-fi
 
 Kofi Dark mode is maintained by members who are willing to contribute to the project
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/flleeppyy)
+
 # Notes
 - Follow suggestions in newsfeed have a weird box shadow, especially on hover. Ref: `.kfds-hz-follow-suggestion-box`
 - Colors should be organized with variables instead of figuring out what color looks nice
@@ -33,4 +35,30 @@ For Google Chrome users:
 
 ## Newsfeed page
 ![Newsfeed page](https://i.imgur.com/hSnMCur.gif)
+
+## Explore page
+![Explore Page](https://raw.githubusercontent.com/flleeppyy/kofi-darkmode/master/screenshots/explore.png)
+
+## User Page
+![User page](https://github.com/flleeppyy/kofi-darkmode/blob/master/screenshots/user_page.png?raw=true)
+
+## Recieved and Given
+![Recieved and Given](https://github.com/flleeppyy/kofi-darkmode/blob/master/screenshots/Recieved_and_given.png?raw=true)
+
+## Settings - Profile
+![Settings - Profile](https://github.com/flleeppyy/kofi-darkmode/blob/master/screenshots/settings_profile.png?raw=true)
+
+## Settings - payment
+![Settings - payment](https://github.com/flleeppyy/kofi-darkmode/blob/master/screenshots/settings_payment.png?raw=true)
+
+## Settings - page
+![Settings - page](https://github.com/flleeppyy/kofi-darkmode/blob/master/screenshots/settings_page.png?raw=true)
+
+## API page
+im just adding this cause i wanna show off the cool code box i added lol
+![API page](https://github.com/flleeppyy/kofi-darkmode/blob/master/screenshots/API.png?raw=true)
+
+## Gold Page
+Warning: Long screenshot
+![Gold Page](https://github.com/flleeppyy/kofi-darkmode/blob/master/screenshots/gold_page.png?raw=true)
 

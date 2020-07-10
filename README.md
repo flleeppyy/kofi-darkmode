@@ -18,15 +18,21 @@ The Ko-fi dark theme is maintained by members who are willing to contribute to t
 5. Done!
 
 # How do I install this theme
-Currently, we haven't exactly worked out the details with Ko-fi on integrating a public beta, so for now, do the following:
+Currently, we haven't exactly worked out the details with Ko-fi on integrating a public beta, so for now, do the following:  
+
 For Google Chrome users:
-1. Use an extension like [UserCSS](https://chrome.google.com/webstore/detail/user-css/okpjlejfhacmgjkmknjhadmkdbcldfcb), [Styler](https://chrome.google.com/webstore/detail/styler/bogdgcfoocbajfkjjolkmcdcnnellpkb/), [CSS and Javascript Injection](https://chrome.google.com/webstore/detail/css-and-javascript-inject/ckddknfdmcemedlmmebildepcmneakaa), or [CSS JS injector](https://chrome.google.com/webstore/detail/css-js-injector/gamgadbdliolbhjdcfjjpjfjhgfnckbp)
-2. Make sure your on [Ko-fi's website](https://ko-fi.com) otherwise you'll be applying the css to a page you didn't intend to.
-3. Insert the following code into the CSS text area
+* Use an extension like [UserCSS](https://chrome.google.com/webstore/detail/user-css/okpjlejfhacmgjkmknjhadmkdbcldfcb), [Styler](https://chrome.google.com/webstore/detail/styler/bogdgcfoocbajfkjjolkmcdcnnellpkb/), [CSS and Javascript Injection](https://chrome.google.com/webstore/detail/css-and-javascript-inject/ckddknfdmcemedlmmebildepcmneakaa), or [CSS JS injector](https://chrome.google.com/webstore/detail/css-js-injector/gamgadbdliolbhjdcfjjpjfjhgfnckbp)  
+
+For Firefox users
+* Use [Stylus](https://addons.mozilla.org/firefox/addon/styl-us/), or [CSS Override](https://addons.mozilla.org/en-US/firefox/addon/css-override/?src=search)  
+
+1. Make sure your on [Ko-fi's website](https://ko-fi.com) otherwise you'll be applying the css to a page you didn't intend to.
+2. Insert the following code into the CSS text area (Depends on the extension, but it should be easy to figure out)
+
 ```css
 @import url("https://flleeppyy.github.io/kofi-darkmode/dark.css")
 ```
-4. Then hit run (If there is a button for it; Some extensions may apply instantly)
+1. Then hit run (If there is a button for it; Some extensions may apply instantly)
 
 # Screenshots
 

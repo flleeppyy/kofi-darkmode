@@ -32,7 +32,7 @@ For Firefox users
 ```css
 @import url("https://flleeppyy.github.io/kofi-darkmode/dark.css")
 ```
-1. Then hit run (If there is a button for it; Some extensions may apply instantly)
+3. Then hit run (If there is a button for it; Some extensions may apply instantly)
 
 # Screenshots
 

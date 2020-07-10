@@ -1334,3 +1334,8 @@ body>div.animate.fade-in-up.text-center.sticky-footer.kfds-lyt-center>div {
 .kfds-border-left {
     margin-top: 4px;
 }
+
+.profile-header {
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+}

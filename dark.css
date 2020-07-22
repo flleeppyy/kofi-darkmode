@@ -27,14 +27,8 @@ h2 {
     font-weight: 400;
 }
 
-.article-body {
+.fr-view {
     color: #dcdcdc!important;
-    font-weight: 400;
-}
-
-.fr-view, .article-body {
-    color: #dcdcdc!important;
-    font-weight: 400;
 }
 
 hr {

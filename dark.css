@@ -32,6 +32,11 @@ h2 {
     font-weight: 400;
 }
 
+.fr-view, .article-body {
+    color: #dcdcdc!important;
+    font-weight: 400;
+}
+
 hr {
     border-top: 1px solid #6b6b6b;
 }

@@ -224,6 +224,12 @@ text {
 
 .btn-small-share {
     border: 1px solid #676767;
+    padding-left: 10px;
+    transition: ease-in 0.5s border;
+}
+
+.btn-small-share:hover {
+    border: 1px solid #0d9ac5;
 }
 
 .kfds-btn-tertiary-light {
@@ -662,7 +668,7 @@ div.kfds-c-choose-options>label>svg {
 .btn,
 .btn-primary {
     background-color: #5f5f5fcf;
-    transition: background-color .15s ease-out, color .15s ease-out!important;
+    transition: border .15s ease-out, background-color .15s ease-out, color .15s ease-out!important;
 }
 
 .btn:hover {
@@ -892,6 +898,8 @@ button.close:hover {
 .social-feed-box {
     background: #3c3c3c;
     margin-bottom: 15px;
+    padding: 10px 10px 0px;
+    border-radius: 8px;
 }
 
 .item-current-bg {
@@ -1194,10 +1202,6 @@ input[value^="Preview Post"] {
 
 .footer-mini-copyright-text {
     color: hsla(218, 100%, 89%, 0.6);
-}
-
-.article-body {
-    color: #d0d0d0;
 }
 
 name>a {

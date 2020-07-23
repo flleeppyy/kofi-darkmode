@@ -27,7 +27,7 @@ h2 {
     font-weight: 400;
 }
 
-.fr-view {
+.fr-view, .article-body {
     color: #dcdcdc!important;
 }
 

@@ -1401,3 +1401,19 @@ body>div.animate.fade-in-up.text-center.sticky-footer.kfds-lyt-center>div {
 .hero__bg-image {
     background: none;
 }
+
+.topbar__logo img {
+	display: block;
+	height: 50px;
+	background-color: #fff;
+	padding: 6px;
+	border-radius: 40px;
+}
+
+.article-page__main {
+    background-color: #3c3c3c;
+}
+
+.article-body .article-container > img, .article-body .article-container > p > img {
+    border-radius: 6px;
+}

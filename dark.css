@@ -449,7 +449,7 @@ name {
 }
 
 .kfds-font-clr-dark {
-    color: #bac9e0;
+    color: #dceaff;
 }
 
 .feeditem-action {
@@ -640,7 +640,7 @@ div.kfds-c-choose-options>label>svg {
 }
 
 .simple-panel {
-    background: #171717;
+    background: #202020;
 }
 
 .pn-flex {
@@ -1198,6 +1198,7 @@ input[value^="Preview Post"] {
 
 .article-body {
     color: #d0d0d0;
+    background-color: #3c3c3c;
 }
 
 name>a {
@@ -1338,4 +1339,58 @@ body>div.animate.fade-in-up.text-center.sticky-footer.kfds-lyt-center>div {
 .profile-header {
     border-bottom-left-radius: 16px;
     border-bottom-right-radius: 16px;
+}
+
+.kfds-srf-linear-btm {
+    background: #3c3c3c;
+}
+
+.dropdown-share-list {
+    color: #d0d0d0;
+}
+
+.btn-dropdown-share {
+    border: #6b6b6b 1px solid;
+    color: #5f5f5fd0;
+}
+
+.btn-dropdown-share:hover {
+    background: #484848;
+}
+
+.btn-dropdown-share:hover, .btn-dropdown-share:focus {
+    background: #5f5f5fcf;
+}
+
+.ds-c-inner-tile-wrapper {
+    background-color: #3e3e3e;
+    border: 2px solid #737373;
+    color: #d2d2d2;
+}
+
+.ds-c-inner-tile-wrapper:hover {
+	color: #d2d2d2 !important;
+	background-color: #4a4a4a7a;
+}
+
+.ds-c-action-tile {
+    background-color: #3e3e3e;
+    border: 2px solid #737373;
+    color: #d2d2d2;
+}
+
+.ds-c-announcement-tile-wrapper {
+    color: #d2d2d2;
+}
+
+.article-header__title {
+    color: #d2d2d2
+}
+
+.breadcrumbs li:last-child a {
+    color: #7f8c93cc;
+}
+
+.hero__bg-image {
+    background: none;
 }

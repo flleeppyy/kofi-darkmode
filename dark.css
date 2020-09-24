@@ -27,9 +27,8 @@ h2 {
     font-weight: 400;
 }
 
-.article-body {
+.fr-view, .article-body {
     color: #dcdcdc!important;
-    font-weight: 400;
 }
 
 hr {
@@ -224,6 +223,12 @@ text {
 
 .btn-small-share {
     border: 1px solid #676767;
+    padding-left: 10px;
+    transition: ease-in 0.5s border;
+}
+
+.btn-small-share:hover {
+    border: 1px solid #0d9ac5;
 }
 
 .kfds-btn-tertiary-light {
@@ -662,7 +667,7 @@ div.kfds-c-choose-options>label>svg {
 .btn,
 .btn-primary {
     background-color: #5f5f5fcf;
-    transition: background-color .15s ease-out, color .15s ease-out!important;
+    transition: border .15s ease-out, background-color .15s ease-out, color .15s ease-out!important;
 }
 
 .btn:hover {
@@ -892,6 +897,8 @@ button.close:hover {
 .social-feed-box {
     background: #3c3c3c;
     margin-bottom: 15px;
+    padding: 10px 10px 0px;
+    border-radius: 8px;
 }
 
 .item-current-bg {

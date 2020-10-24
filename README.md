@@ -37,7 +37,7 @@ For Firefox users
 # Screenshots
 
 ## Home manage page
-![Home manage page](https://i.imgur.com/SCaQN6u.png)
+![Home manage page](https://raw.githubusercontent.com/flleeppyy/kofi-darkmode/master/screenshots/manage_page.png)
 
 ## Newsfeed page
 ![Newsfeed page](https://i.imgur.com/hSnMCur.gif)

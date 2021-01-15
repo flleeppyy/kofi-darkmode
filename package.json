@@ -1,0 +1,16 @@
+{
+  "name": "kofi-darkmode",
+  "version": "1.0.0",
+  "description": "A dark theme for Ko-fi",
+  "repository": "https://github.com/flleeppyy/kofi-darkmode.git",
+  "author": "Flleeppyy",
+  "license": "MIT",
+  "scripts": {
+    "css:watch": "sass dark.scss dark.css --update --watch",
+    "css:build": "sass dark.scss dark.css --style=compressed --update --no-error-css"
+  },
+  "dependencies": {
+    "sass": "^1.32.4",
+    "scss": "^0.2.4"
+  }
+}

@@ -100,7 +100,7 @@ footer {
   color: #d7eaee;
 }
 
-.swal2-popup {
+.swal2-popup, .kfds-c-thank-bg {
   background: #333333 !important;
 }
 .swal2-popup .swal2-content {

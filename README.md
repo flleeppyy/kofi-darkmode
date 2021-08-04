@@ -1,3 +1,9 @@
+# NOTICE OF DEPRECATION
+
+This project is no longer actively maintained. I don't have enough motivation to keep working on this.
+I highly suggest you use an extension such as [Dark Reader](https://darkreader.org) to get dark mode on Ko-fi and other websites.
+I will still accept pull requests, but I will not maintain this repository.
+
 # kofi-darkmode
 A community contributed dark theme for Ko-fi
 
